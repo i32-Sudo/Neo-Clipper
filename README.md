@@ -38,5 +38,6 @@
 </h1>
 
 <div align="center">
-
+  <img  src="https://raw.githubusercontent.com/i64-sudo/Neo-Clipper/main/media/image_p1.png">
+  
 </div>
